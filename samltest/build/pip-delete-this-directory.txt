@@ -3,3 +3,5 @@ here by pip.
 
 Once this package is successfully installed this source code will be
 deleted (unless you remove this file).
+
+Otherwise need to delete manually.
